@@ -1,0 +1,63 @@
+body {
+    background-color: #a6c2dd;
+    margin: 15px;
+
+    font-family: Times New Roman;
+}
+
+
+
+.title {
+    font-size: 60px;
+    color: #851b4c;
+    text-align: center;
+
+}
+
+.card {
+    margin: 0 35px;
+    box-shadow: 0 5px 10px #ccc;
+    border-radius: 10px;
+
+}
+.title2 {
+    font-size: 34px;
+    color: #744a3d;
+
+}
+
+.subtitle {
+    font-size: 26px;
+    color: #744a3d;
+
+}
+
+.subtitle2 {
+    font-size: 32px;
+    color: #744a3d;
+
+}
+
+.paragraph {
+    text-indent: 45px;
+}
+
+.subtitle3 {
+    font-size: 20px;
+    color: #744a3d;
+
+}.subtitle4 {
+    font-size: 20px;
+    color: #744a3d;
+
+}
+
+.contact {
+    font-size: 20px;
+    color: #851b4c;
+    text-align: right;
+
+
+
+}
+
